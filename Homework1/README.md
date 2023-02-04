@@ -1,0 +1,3 @@
+# HLT Homework 1 Overview
+
+In this assignment, we were required to read a csv file with employee data and use regular expression to reformat the data to make it easier to read. We can generalize this process by passing files of data through system arguments instead of hard coding file paths. This was a test of generalized python knowledge to make sure we have the necessary skills to read a file, edit how we format the data, and produce another file (pickle file) to contain this updated data. 
