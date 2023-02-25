@@ -1,0 +1,3 @@
+# HLT Homework 3 Overview
+
+In this assignment we were required to use NLTK's WordNet to understand how it works and learn the necessary skills for future assignments using it. The main points was applying POS tags to words and identifying relative words and definitions that come from synsets of the word. We were then asked to delve into SentiWordNet which involves applying sentiment to a word or phrase. This is the first step into greater sentiment analysis for larger sets of data. We also learned what a collocation is and how to identifiy them and calculate the mutual association each set of collocations in a given text.
